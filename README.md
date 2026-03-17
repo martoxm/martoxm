@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá! Eu sou o Gabriel
 
 Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, Python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
