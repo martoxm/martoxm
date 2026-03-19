@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel
 
-Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, Python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
+Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, C#, python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
 
 ---
 
@@ -15,19 +15,19 @@ Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando m
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-- **Linguagens:** HTML5, CSS3, Python (básico)  
+- **Linguagens:** HTML5, CSS3, C# (básico)  
 - **Banco de Dados:** MySQL (básico)  
 - **Ferramentas:** Git, GitHub, VS Code  
-- **Interesses:** Desenvolvimento web, Python avançado, JavaScript
+- **Interesses:** Desenvolvimento web, Python avançado, JavaScript, C# avançado
 
 ---
 
 ## 🚀 Projetos iniciais
 Estou começando a montar meus primeiros projetos e exercícios:
 
-- **Exercícios de Python – Curso em Vídeo**  
+- **Exercícios de C# – freeCodeCamp**  
   Repositório com desafios e práticas do curso.  
-  🔗 *em montagem*
+  🔗 [*C#*](https://github.com/martoxm/csharp-freecodecamp)
 
 - **Página simples em HTML e CSS**  
   Meu primeiro projeto web, focado em estrutura e estilização.  
@@ -41,7 +41,7 @@ Estou começando a montar meus primeiros projetos e exercícios:
 
 ## 🎯 Objetivos
 - Criar projetos pequenos para praticar lógica e web  
-- Evoluir em Python e desenvolvimento front-end  
+- Evoluir em c# e desenvolvimento back-end  
 - Construir um portfólio sólido ao longo da faculdade  
 - Conseguir meu primeiro estágio na área de tecnologia
 
