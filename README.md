@@ -7,7 +7,7 @@ Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando m
 ## 📚 O que estou estudando atualmente
 - Algoritmo e lógica de programação  
 - HTML5 e CSS3
-- C# (Microsoft Learn)
+- C# (freeCodeCamp)
 - Git e GitHub  
 - Python 3 (Mundo 1 – Curso em Vídeo)  
 - Fundamentos de Sistemas de Informação (faculdade)
