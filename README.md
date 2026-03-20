@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Capa Marto" />
+  <img src="capa-marto.png" alt="Capa Marto" />
 </p>
 
 
