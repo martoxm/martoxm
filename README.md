@@ -2,6 +2,7 @@
   <img src="image.png" alt="Capa Marto" />
 </p>
 
+
 # 👋 Olá! Eu sou o Marto
 
 Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, C#, python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
