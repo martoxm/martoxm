@@ -32,7 +32,7 @@ Estou começando a montar meus primeiros projetos e exercícios:
 
 - **Exercícios de C# – freeCodeCamp**  
   Repositório com desafios e práticas do curso.  
-  🔗 [*C#*](https://github.com/martoxm/csharp-freecodecamp)
+  🔗 [*C#*](https://github.com/martoxm/csharp-freecodecamp) 
 
 - **Página simples em HTML e CSS**  
   Meu primeiro projeto web, focado em estrutura e estilização.  
