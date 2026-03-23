@@ -3,58 +3,59 @@
 </p>
 
 
-# 👋 Olá! Eu sou o Marto
+# 👋 Olá! Eu sou o Gabriel Martorelli
 
-Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, C#, python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
+Sou estudante de Sistemas de Informação e desenvolvedor em formação, focado em **C#, ASP.NET, HTML e CSS**.  
+Estou construindo minha base na programação com projetos simples, porém organizados, e sempre buscando aprender novas tecnologias.
 
----
-
-## 📚 O que estou estudando atualmente
-- Algoritmo e lógica de programação  
-- HTML5 e CSS3
-- C# (freeCodeCamp)
-- Git e GitHub  
-- Python 3 (Mundo 1 – Curso em Vídeo)  
-- Fundamentos de Sistemas de Informação (faculdade)
+Atualmente estou em transição de carreira e criando projetos para evoluir minhas habilidades e me preparar para oportunidades como estagiário de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-- **Linguagens:** HTML5, CSS3, C# (básico)  
-- **Banco de Dados:** MySQL (básico)  
-- **Ferramentas:** Git, GitHub, VS Code  
-- **Interesses:** Desenvolvimento web, Python avançado, JavaScript, C# avançado
+## 🚀 Tecnologias que estou estudando
+
+- **C#**
+- **ASP.NET / .NET**
+- **HTML5**
+- **CSS3**
+- **Lógica de Programação**
+- **Git e GitHub**
 
 ---
 
-## 🚀 Projetos iniciais
-Estou começando a montar meus primeiros projetos e exercícios:
+## 📌 Projetos em destaque
 
-- **Exercícios de C# – freeCodeCamp**  
-  Repositório com desafios e práticas do curso.  
-  🔗 [*C#*](https://github.com/martoxm/csharp-freecodecamp) 
+Aqui estão alguns dos projetos que representam minha evolução:
 
-- **Página simples em HTML e CSS**  
-  Meu primeiro projeto web, focado em estrutura e estilização.  
-  🔗 *em montagem*
+- **Projeto ASP.NET Inicial** — primeiros passos com MVC/Razor  
+- **Exercícios de C#** — estudos do freeCodeCamp e Microsoft Learn  
+- **HTML/CSS Básico** — páginas simples para treinar estrutura e layout  
+- **Portfólio Pessoal** — página apresentando meus estudos e contatos  
 
-- **Estudos de MySQL**  
-  Scripts e consultas básicas criadas durante meus estudos.  
-  🔗 *em montagem*
 
 ---
 
-## 🎯 Objetivos
-- Criar projetos pequenos para praticar lógica e web  
-- Evoluir em c# e desenvolvimento back-end  
-- Construir um portfólio sólido ao longo da faculdade  
-- Conseguir meu primeiro estágio na área de tecnologia
+## 🎯 Sobre mim
+
+- Estudante de **Sistemas de Informação**  
+- Em transição para a área de tecnologia  
+- Apaixonado por aprender e construir coisas novas  
+- Buscando minha primeira oportunidade como **Estagiário de Programação**  
+- Focado em evoluir todos os dias  
 
 ---
 
 ## 📫 Como me encontrar
-- Email: *gabriel.martorelli@hotmail.com*
-- LinkedIn: *https://www.linkedin.com/in/gabriel-martorelli-835182359/*
+
+- **E-mail:** https://github.com/martoxm  
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-martorelli-835182359  
+
 ---
 
-⭐ *Obrigado por visitar meu perfil! Estou sempre aprendendo e evoluindo.*
+## 📚 Objetivo
+
+Criar uma base sólida em desenvolvimento web com C# e ASP.NET, construir projetos reais e crescer profissionalmente dentro da área de tecnologia.
+
+---
+
+Obrigado por visitar meu perfil! 😄  
