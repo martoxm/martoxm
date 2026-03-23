@@ -47,7 +47,7 @@ Aqui estão alguns dos projetos que representam minha evolução:
 
 ## 📫 Como me encontrar
 
-- **E-mail:** https://github.com/martoxm  
+- **E-mail:** gabriel.martorelli@hotmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/gabriel-martorelli-835182359  
 
 ---
