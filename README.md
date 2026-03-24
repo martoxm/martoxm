@@ -45,11 +45,11 @@ Aqui estão alguns dos projetos que representam minha evolução:
 
 ---
 ### 🌐 Meu Portfólio Online
-
+----
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-blue)](https://martoxm.github.io/portfolio-pessoal/)
-
-
 ---
+
+
 
 ## 📫 Como me encontrar
 
