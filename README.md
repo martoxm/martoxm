@@ -11,6 +11,12 @@ Estou construindo minha base na programação com projetos simples, porém organ
 Atualmente estou em transição de carreira e criando projetos para evoluir minhas habilidades e me preparar para oportunidades como estagiário de desenvolvimento.
 
 ---
+### 🌐 Meu Portfólio Online
+----
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-blue)](https://martoxm.github.io/portfolio-pessoal/)
+---
+
+
 
 ## 🚀 Tecnologias que estou estudando
 
@@ -43,10 +49,6 @@ Aqui estão alguns dos projetos que representam minha evolução:
 - Buscando minha primeira oportunidade como **Estagiário de Programação**  
 - Focado em evoluir todos os dias  
 
----
-### 🌐 Meu Portfólio Online
-----
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-blue)](https://martoxm.github.io/portfolio-pessoal/)
 ---
 
 
