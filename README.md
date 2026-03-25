@@ -13,7 +13,10 @@ Atualmente estou em transição de carreira e criando projetos para evoluir minh
 ---
 ### 🌐 Meu Portfólio Online
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-blue)](https://martoxm.github.io/portfolio-pessoal/)
+<a href="https://martoxm.github.io/portfolio-pessoal/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-blue" />
+</a>
+
 
 ---
 
