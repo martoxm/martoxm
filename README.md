@@ -59,7 +59,7 @@ Aqui estão alguns dos projetos que representam minha evolução:
 ## 📫 Como me encontrar
 
 - **E-mail:** gabriel.martorelli@hotmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/gabriel-martorelli-835182359  
+- **LinkedIn:** https://www.linkedin.com/in/gabrielmartorelli/
 
 ---
 
