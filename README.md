@@ -2,7 +2,6 @@
   <img src="capa-marto.png" alt="Capa Marto" />
 </p>
 
-
 # 👋 Olá! Eu sou o Gabriel Martorelli
 
 Sou estudante de Sistemas de Informação e desenvolvedor em formação, focado em **C#, ASP.NET, HTML e CSS**.  
@@ -11,15 +10,25 @@ Estou construindo minha base na programação com projetos simples, porém organ
 Atualmente estou em transição de carreira e criando projetos para evoluir minhas habilidades e me preparar para oportunidades como estagiário de desenvolvimento.
 
 ---
+
 ### 🌐 Meu Portfólio Online
 
+<div align="center">
 <a href="https://martoxm.github.io/portfolio-pessoal/" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-blue" />
 </a>
 
-
 ---
 
+## 🔗 Link in Bio
+
+<div align="center">
+  <a href="https://martoxm.github.io/marto-devcard/" target="_blank">
+    <img src="https://img.shields.io/badge/Link%20in%20Bio-Acessar-blue" />
+  </a>
+</div>
+
+---
 
 ## 🚀 Tecnologias que estou estudando
 
@@ -36,29 +45,26 @@ Atualmente estou em transição de carreira e criando projetos para evoluir minh
 
 Aqui estão alguns dos projetos que representam minha evolução:
 
-- **Projeto ASP.NET Inicial** — primeiros passos com MVC/Razor  
-- **Exercícios de C#** — estudos do freeCodeCamp e Microsoft Learn  
-- **HTML/CSS Básico** — páginas simples para treinar estrutura e layout  
-- **Portfólio Pessoal** — página apresentando meus estudos e contatos  
-
+- **Projeto ASP.NET Inicial** — primeiros passos com MVC/Razor
+- **Exercícios de C#** — estudos do freeCodeCamp e Microsoft Learn
+- **HTML/CSS Básico** — páginas simples para treinar estrutura e layout
+- **Portfólio Pessoal** — página apresentando meus estudos e contatos
 
 ---
 
 ## 🎯 Sobre mim
 
-- Estudante de **Sistemas de Informação**  
-- Em transição para a área de tecnologia  
-- Apaixonado por aprender e construir coisas novas  
-- Buscando minha primeira oportunidade como **Estagiário de Programação**  
-- Focado em evoluir todos os dias  
+- Estudante de **Sistemas de Informação**
+- Em transição para a área de tecnologia
+- Apaixonado por aprender e construir coisas novas
+- Buscando minha primeira oportunidade como **Estagiário de Programação**
+- Focado em evoluir todos os dias
 
 ---
 
-
-
 ## 📫 Como me encontrar
 
-- **E-mail:** gabriel.martorelli@hotmail.com  
+- **E-mail:** gabriel.martorelli@hotmail.com
 - **LinkedIn:** https://www.linkedin.com/in/gabrielmartorelli/
 
 ---
@@ -69,4 +75,4 @@ Criar uma base sólida em desenvolvimento web com C# e ASP.NET, construir projet
 
 ---
 
-Obrigado por visitar meu perfil! 😄  
+Obrigado por visitar meu perfil! 😄
