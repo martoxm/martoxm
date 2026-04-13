@@ -4,11 +4,11 @@
 
 # 👋 Olá! Eu sou o Gabriel Martorelli
 
-Sou estudante de Sistemas de Informação e desenvolvedor em formação, focado em **C#, ASP.NET, HTML e CSS**.  
-Estou construindo minha base na programação com projetos simples, porém organizados, e sempre buscando aprender novas tecnologias.
+Sou estudante de Sistemas de Informação com foco em desenvolvimento backend e fundamentos de arquitetura de software. Possuo experiência prática com C#, .NET, ASP.NET, HTML, CSS, JavaScript e Git, além de uma base sólida em lógica de programação.
 
-Atualmente estou em transição de carreira e criando projetos para evoluir minhas habilidades e me preparar para oportunidades como estagiário de desenvolvimento.
+Atualmente avanço na trilha .NET da Rocketseat, desenvolvendo projetos que envolvem APIs REST, arquitetura em camadas, DDD, princípios SOLID, autenticação, testes e deploy. Estou em transição de carreira e construindo projetos para consolidar meus conhecimentos e evoluir como desenvolvedor.
 
+Busco minha primeira oportunidade como estagiário para aplicar o que venho aprendendo, colaborar com soluções eficientes e bem estruturadas, e crescer ao lado de profissionais experientes.
 ---
 
 ### 🌐 Meu Portfólio Online
