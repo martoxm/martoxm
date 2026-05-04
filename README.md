@@ -30,23 +30,32 @@ Busco minha primeira oportunidade como estagiário para aplicar o que venho apre
 
 ## 🚀 Tecnologias que estou estudando
 
-- **C#**
-- **ASP.NET / .NET**
+> Foco atual na construção de aplicações backend com .NET e no fortalecimento da base de desenvolvimento web.
+
+### Backend
+
+- **C# & .NET 8**
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- **MySQL**
+
+### Arquitetura e Qualidade
+
+- **DDD (Domain Driven Design)**
+- **SOLID**
+- **Clean Architecture**
+- **Testes Unitários (xUnit)**
+
+### Web e Ferramentas
+
 - **HTML5**
 - **CSS3**
-- **Lógica de Programação**
-- **Git e GitHub**
+- **Git & GitHub**
+- **Swagger / Scalar**
+- **Fluent Validation**
+- **AutoMapper**
 
 ---
-
-## 📌 Projetos em destaque
-
-Aqui estão alguns dos projetos que representam minha evolução:
-
-- **Projeto ASP.NET Inicial** — primeiros passos com MVC/Razor
-- **Exercícios de C#** — estudos do freeCodeCamp e Microsoft Learn
-- **HTML/CSS Básico** — páginas simples para treinar estrutura e layout
-- **Portfólio Pessoal** — página apresentando meus estudos e contatos
 
 ---
 
