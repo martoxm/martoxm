@@ -4,81 +4,55 @@
 
 # 👋 Olá! Eu sou o Gabriel Martorelli
 
-Sou estudante de Sistemas de Informação com foco em desenvolvimento backend e fundamentos de arquitetura de software. Possuo experiência prática com C#, .NET, ASP.NET, HTML, CSS, JavaScript e Git, além de uma base sólida em lógica de programação.
+Estudante de **Sistemas de Informação** com foco em desenvolvimento backend e arquitetura de software.
+Estou construindo projetos reais com **.NET 8** para consolidar conhecimentos e buscar minha primeira oportunidade como **estagiário de programação**.
 
-Atualmente avanço na trilha .NET da Rocketseat, desenvolvendo projetos que envolvem APIs REST, arquitetura em camadas, DDD, princípios SOLID, autenticação, testes e deploy. Estou em transição de carreira e construindo projetos para consolidar meus conhecimentos e evoluir como desenvolvedor.
-
-Busco minha primeira oportunidade como estagiário para aplicar o que venho aprendendo, colaborar com soluções eficientes e bem estruturadas, e crescer ao lado de profissionais experientes.
+> 🌱 Atualmente estudando: **DDD, Clean Architecture, Entity Framework Core e SOLID**
 
 ---
 
-### 🌐 Meu Portfólio Online
+### 🌐 Links
 
 <a href="https://martoxm.github.io/portfolio-pessoal/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-blue" />
+  <img src="https://img.shields.io/badge/Portfólio-Online-blue" />
 </a>
-
----
-
-## 🔗 Link in Bio
-
-  <a href="https://martoxm.github.io/marto-devcard/" target="_blank">
-    <img src="https://img.shields.io/badge/Link%20in%20Bio-Acessar-blue" />
-  </a>
+<a href="https://martoxm.github.io/marto-devcard/" target="_blank">
+  <img src="https://img.shields.io/badge/Link%20in%20Bio-Acessar-blue" />
+</a>
+<a href="https://www.linkedin.com/in/gabrielmartorelli/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+</a>
 
 ---
 
 ## 🚀 Tecnologias que estou estudando
 
-> Foco atual na construção de aplicações backend com .NET e no fortalecimento da base de desenvolvimento web.
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend
+**Arquitetura & Qualidade:** DDD · SOLID · Clean Architecture · Testes Unitários (xUnit)
 
-- **C# & .NET 8**
-- **ASP.NET Core Web API**
-- **Entity Framework Core**
-- **MySQL**
-
-### Arquitetura e Qualidade
-
-- **DDD (Domain Driven Design)**
-- **SOLID**
-- **Clean Architecture**
-- **Testes Unitários (xUnit)**
-
-### Web e Ferramentas
-
-- **HTML5**
-- **CSS3**
-- **Git & GitHub**
-- **Swagger / Scalar**
-- **Fluent Validation**
-- **AutoMapper**
+**Bibliotecas:** Entity Framework Core · Fluent Validation · AutoMapper · Swagger
 
 ---
 
----
+## 📊 GitHub Stats
 
-## 🎯 Sobre mim
-
-- Estudante de **Sistemas de Informação**
-- Em transição para a área de tecnologia
-- Apaixonado por aprender e construir coisas novas
-- Buscando minha primeira oportunidade como **Estagiário de Programação**
-- Focado em evoluir todos os dias
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martoxm&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martoxm&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 - **E-mail:** gabriel.martorelli@hotmail.com
-- **LinkedIn:** https://www.linkedin.com/in/gabrielmartorelli/
-
----
-
-## 📚 Objetivo
-
-Criar uma base sólida em desenvolvimento web com C# e ASP.NET, construir projetos reais e crescer profissionalmente dentro da área de tecnologia.
+- **LinkedIn:** [linkedin.com/in/gabrielmartorelli](https://www.linkedin.com/in/gabrielmartorelli/)
 
 ---
 
