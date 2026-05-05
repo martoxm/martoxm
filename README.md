@@ -44,7 +44,7 @@ Estou construindo projetos reais com **.NET 8** para consolidar conhecimentos e 
 
 ## 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=martoxm&theme=tokyonight&no-frame=true&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=martoxm&theme=tokyonight&no-frame=true&row=1&v=20260505)
 
 ---
 
