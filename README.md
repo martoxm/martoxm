@@ -5,7 +5,7 @@
 # 👋 Olá! Eu sou o Gabriel Martorelli
 
 Estudante de **Sistemas de Informação** com foco em desenvolvimento backend e arquitetura de software.
-Estou construindo projetos reais com **.NET 8** para consolidar conhecimentos e buscar minha primeira oportunidade como **estagiário de programação**.
+Estou construindo projetos reais com **.NET 10** para consolidar conhecimentos e buscar minha primeira oportunidade como **estagiário de programação**.
 
 > 🌱 Atualmente estudando: **DDD, Clean Architecture, Entity Framework Core e SOLID**
 
